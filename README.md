@@ -1,6 +1,6 @@
 ##   Projeto de Live Coding - Seleção de Desenvolvedor(a) Sênior
 
-Bem-vindo(a) ao projeto de Live Coding para o processo de seleção de Desenvolvedor(a) Sênior! Este teste prático tem como objetivo avaliar suas habilidades de refatoração, criação de testes unitários e sua proficiência em Java ou Kotlin.
+Bem-vindo(a) ao projeto de Live Coding para o processo de seleção de Desenvolvedor(a) Sênior! Este teste prático tem como objetivo avaliar suas habilidades de refatoração, criação de testes unitários e sua proficiência em Java, Kotlin ou Node JS.
 
 ###   Objetivo
 
@@ -31,4 +31,5 @@ O objetivo deste teste é demonstrar suas habilidades na refatoração de códig
 ###   Boa Sorte!
 
 Estamos ansiosos para ver suas habilidades em ação. Boa sorte!
+
 
