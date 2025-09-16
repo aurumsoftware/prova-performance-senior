@@ -16,9 +16,9 @@ O objetivo deste teste é demonstrar suas habilidades na refatoração de códig
 
 ###   Instruções
 
-1.  **Escolha da linguagem:** Você pode optar por realizar o teste em Java ou Kotlin, de acordo com sua preferência e proficiência.
+1.  **Escolha da linguagem:** Você pode optar por realizar o teste em Java, Kotlin ou Node JS de acordo com sua preferência e proficiência.
 2.  **Preparação:** Antes da sessão de live coding, familiarize-se com o ambiente de desenvolvimento que você utilizará (IDE, etc.).
-3.  **Código a ser refatorado:** Um trecho de código em Java ou Kotlin será fornecido no início da sessão de live coding. Este código pode conter problemas de design, duplicação, baixa legibilidade ou falta de testes.
+3.  **Código a ser refatorado:** Um trecho de código será fornecido no início da sessão de live coding. Este código pode conter problemas de design, duplicação, baixa legibilidade ou falta de testes.
 4.  **Tempo:** Você terá um tempo limitado para refatorar o código e criar testes unitários. O tempo exato será informado no início da sessão.
 5.  **Recursos:** Você poderá utilizar recursos online (documentação, exemplos de código) para auxiliar na refatoração e na criação de testes.
 6.  **Avaliação:** Sua refatoração e testes serão avaliados com base nos seguintes critérios:
@@ -31,3 +31,4 @@ O objetivo deste teste é demonstrar suas habilidades na refatoração de códig
 ###   Boa Sorte!
 
 Estamos ansiosos para ver suas habilidades em ação. Boa sorte!
+
